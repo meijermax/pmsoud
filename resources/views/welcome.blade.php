@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Max Meijer test
+                    Laravel Max Meijer test 2
                 </div>
 
                 <div class="links">
